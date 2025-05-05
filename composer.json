@@ -1,0 +1,26 @@
+{
+    "name": "kamran/mira",
+    "description": "Laravel AI-powered report generator",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Md Kamran Hosan",
+            "email": "kamranraz28@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Kamran\\Mira\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Kamran\\Mira\\MiraServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
