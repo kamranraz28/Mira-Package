@@ -43,4 +43,4 @@ Md Kamran Hosan
 
 📧 Email: mdkamranhosan98@gmail.com
 
-🔗 LinkedIn: linkedin.com/in/md-kamran-hosan-693023261
+🔗 LinkedIn: https://www.linkedin.com/in/md-kamran-hosan-693023261
