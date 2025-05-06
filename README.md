@@ -26,7 +26,7 @@ Step-1: Update your Laravel App composer.json file with it:
 "repositories": [
     {
         "type": "vcs",
-        "url": "https://github.com/yourusername/kamran-mira"
+        "url": "https://github.com/kamranraz28/Mira-Package.git"
     }
 ]
 
